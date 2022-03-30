@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TMB</name>
+      <longname>Volition CCG - The Most Beta</longname>
+      <settype>Volition</settype>
+      <releasedate>2022-03-28</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Epsilon Influence Generator</name>
+      <text>PROVIDES - [E]</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Standard - Resource</type>
+        <maintype>Standard</maintype>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        <cipt>1</cipt>
+      </prop>
+      <set rarity="Standard" uuid="9dd8f6d5-5bac-49c5-94b1-af49c6c947b5" num="1-1-1" muid="100001">TMB</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Delta Influence Generator</name>
+      <text>PROVIDES - [D]</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Standard - Resource</type>
+        <maintype>Standard</maintype>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        <cipt>1</cipt>
+      </prop>
+      <set rarity="Standard" uuid="dceaca62-f137-4f55-b626-4fb58dd088b0" num="1-2-1" muid="100002">TMB</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Theta Influence Generator</name>
+      <text>PROVIDES - [T]</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Standard - Resource</type>
+        <maintype>Standard</maintype>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        <cipt>1</cipt>
+      </prop>
+      <set rarity="Standard" uuid="834540c7-ad4c-44c4-95f0-b23c9af58d18" num="1-3-1" muid="100003">TMB</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Pi Influence Generator</name>
+      <text>PROVIDES - [P]</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Standard - Resource</type>
+        <maintype>Standard</maintype>
+        <colors>P</colors>
+        <coloridentity>P</coloridentity>
+        <cipt>1</cipt>
+      </prop>
+      <set rarity="Standard" uuid="6b06f13a-d5e0-4059-aadb-4f3b1a522ac4" num="1-4-1" muid="100004">TMB</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Gamma Influence Generator</name>
+      <text>PROVIDES - [G]</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Standard - Resource</type>
+        <maintype>Standard</maintype>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <cipt>1</cipt>
+      </prop>
+      <set rarity="Standard" uuid="ddb7cc50-c265-45b5-b9ba-03ab717eb60d" num="1-5-1" muid="100005">TMB</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Organ Donor</name>
+      <text>Trashed - You may draw a card. If you do, discard a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Vessel</type>
+        <maintype>Mortal</maintype>
+        <manacost>1E</manacost>
+        <cmc>1</cmc>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        <pt>1/1</pt>
+      </prop>
+      <set rarity="common" uuid="b99bc167-6fda-4a5e-97f4-a39ea251cf36" num="1-6-1" muid="100006">TMB</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Reiki Sniper</name>
+      <text>Enter - You may pick a depleted mortal, inflict 1 damage to it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Adept</type>
+        <maintype>Mortal</maintype>
+        <manacost>2E</manacost>
+        <cmc>2</cmc>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        <pt>2/1</pt>
+      </prop>
+      <set rarity="common" uuid="ddd9767c-02ef-438b-a0f0-9449f7ece5e2" num="1-7-1" muid="100007">TMB</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Libel Artist</name>
+      <text>Hit - You may draw a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Vessel</type>
+        <maintype>Mortal</maintype>
+        <manacost>2E 1A</manacost>
+        <cmc>3</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>3/2</pt>
+      </prop>
+      <set rarity="common" uuid="7c809e15-1e4f-4616-99eb-a592bca7d8ee" num="1-10-1" muid="100010">TMB</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Smooth Honoree</name>
+      <text>Attack - Gain a decree.
+
+This can only attack once per turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Vessel</type>
+        <maintype>Mortal</maintype>
+        <manacost>3E</manacost>
+        <cmc>3</cmc>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        <pt>2/1</pt>
+      </prop>
+      <set rarity="uncommon" uuid="6b99baf8-959b-4c5c-9c81-f018fd9349ba" num="1-11-1" muid="100011">TMB</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Pleasure Clone</name>
+      <text>ELITE (while all mortals in this mortal's party have ELITE, the party cannot be blocked except by mortals with ELITE)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Replicant</type>
+        <maintype>Mortal</maintype>
+        <manacost>2E 1A</manacost>
+        <cmc>3</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>2/1</pt>
+      </prop>
+      <set rarity="common" uuid="80205552-478c-4222-b1f0-5d0a7f682b0e" num="1-12-1" muid="100012">TMB</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Histrionic Heiress</name>
+      <text>{T} = Pick a depleted mortal, inflict 2 damage to it. Inflict 2 damage to this.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Replicant</type>
+        <maintype>Mortal</maintype>
+        <manacost>2E 1A</manacost>
+        <cmc>3</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>1/3</pt>
+      </prop>
+      <set rarity="common" uuid="ecfbf585-c790-4d06-9dff-b21ac8c1a1b2" num="1-13-1" muid="100013">TMB</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Magnetic Personality</name>
+      <text>{T} = Draw a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Vessel</type>
+        <maintype>Mortal</maintype>
+        <manacost>4E 1A</manacost>
+        <cmc>5</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>2/2</pt>
+      </prop>
+      <set rarity="uncommon" uuid="9f5e6f64-33f6-432c-82a9-4aa220416efb" num="1-14-1" muid="100014">TMB</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deluxe Butler</name>
+      <text>PRICEY (cost: {D})
+Enter - You may deploy a non-[E] standard resource.
+
+Attack - You may void a card in an opponent's trashpile.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Machine</type>
+        <maintype>Mortal</maintype>
+        <manacost>1E 3A</manacost>
+        <cmc>4</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>6/4</pt>
+      </prop>
+      <set rarity="uncommon" uuid="0afba2d2-e738-4a1a-85c4-54927dd1c594" num="1-15-1" muid="100015">TMB</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Personnel Consultant</name>
+      <text>Enter - You may pick an opponent's depleted mortal, inflict 1 damage to it. If it is destroyed by that damage, draw cards equal to its non-[A] influence requirement minus 1.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Replicant</type>
+        <maintype>Mortal</maintype>
+        <manacost>4E 1A</manacost>
+        <cmc>5</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>2/2</pt>
+      </prop>
+      <set rarity="uncommon" uuid="3d3f9aa0-57e0-4b21-8af1-aeca6fdebbcc" num="1-16-1" muid="100016">TMB</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vitality Harvester</name>
+      <text>UPGRADE (reveal this from your hand, sacrifice a card that shares a type with this card = Deploy this faceup.)
+
+Attack - All of your attacking mortals gain +1/+1 this turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Machine</type>
+        <maintype>Mortal</maintype>
+        <manacost>5E 1A</manacost>
+        <cmc>6</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>7/7</pt>
+      </prop>
+      <set rarity="rare" uuid="723b94bf-27fa-4eae-a5fd-d4af088e3590" num="1-18-1" muid="100018">TMB</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chief Morale Officer</name>
+      <text>Enter - Your mortals gain +0/+1 this turn and this inflicts 2 damage to each depleted mortal.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Replicant</type>
+        <maintype>Mortal</maintype>
+        <manacost>3E 3A</manacost>
+        <cmc>6</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>7/5</pt>
+      </prop>
+      <set rarity="rare" uuid="d6b14b59-0353-403e-a7e8-46c2cdc002d0" num="1-19-1" muid="100019">TMB</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Unexpected Scandalizer</name>
+      <text>{D}, {T} = Pick a depleted mortal, inflict 3 damage to it.
+
+{T}, {T} one of your mortals = inflict 1 damage to a depleted mortal.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Unique - Mortal - Adept</type>
+        <maintype>Mortal</maintype>
+        <manacost>4E 3A</manacost>
+        <cmc>7</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>5/5</pt>
+      </prop>
+      <set rarity="epic" uuid="f8f5539b-2e96-4c46-b01a-f146f58b3346" num="1-20-1" muid="100020">TMB</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Public Humiliation</name>
+      <text>Pick an attacking mortal and inflict 4 damage to it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>1E 1A</manacost>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+      </prop>
+      <set rarity="uncommon" uuid="b28d3caa-e7ec-4297-9d67-b539733c843e" num="1-21-1" muid="100021">TMB</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Tactical Disable</name>
+      <text>Destroy a mortal or item that used an activated ability this turn. Put this onto the battlezone under its owner's control as a facedown resource.
+
+2[D] - Reveal this while it's a facedown resource, {T} your Mastermind = Put this into your hand.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>2D</manacost>
+        <cmc>2</cmc>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="70b2bf95-98d2-4c21-a7d1-72e28e641cfc" num="1-22-1" muid="100022">TMB</set>
+        <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Perfect Foresight</name>
+      <text>Cancel a trap being deployed. (A trap being deployed facedown, not a trap being flipped up during a trap check.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>E2 1A</manacost>
+        <cmc>3</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="aa080ad3-7476-4139-8a7a-2bb4f7f8be47" num="1-25-1" muid="100025">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Fit In</name>
+      <text>A mortal gains ELITE this turn. You may deploy a standard resource. (While all mortals in this mortal's party have ELITE, the party cannot be blocked except by mortals with ELITE)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2E</manacost>
+        <cmc>2</cmc>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="common" uuid="3878dbbb-9f61-4e0d-bb56-e7fc4cfac31f" num="1-27-1" muid="100027">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Envious Overhaul</name>
+      <text>Draw cards equal to the number of mortals your opponents control, then discard that many cards.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>1E 1A</manacost>
+        <cmc>2</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="common" uuid="47ac5931-7750-44ad-9c95-f851b90c9801" num="1-28-1" muid="100028">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Triple Threat</name>
+      <text>Pick any number of depleted mortals, inflict 3 damage divided as you choose among them.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>3E</manacost>
+        <cmc>3</cmc>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="48ed0910-051e-497c-8150-f523122045cc" num="1-29-1" muid="100029">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Massive Exposé</name>
+      <text>COST: Choose a number for X.
+Absorb X rep.
+
+Inflict X damage to each opponent's depleted mortals.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2E 1A</manacost>
+        <cmc>3</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="common" uuid="984dc21e-f990-429d-b623-4745c7e9e865" num="1-31-1" muid="100031">TMB</set>
+        <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Status Symbol</name>
+      <text>Attached mortal gets +1/+1 and gains ELITE.
+
+(Gear can be attached to your mortal when it enters the battlezone or when your mortal enters the battlezone if the gear is unattached. You may use a {D} to attach the gear to any of your mortals.)
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Item - Gear</type>
+        <maintype>Item</maintype>
+        <manacost>2E 2A</manacost>
+        <cmc>4</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="common" uuid="2ec8c04f-8fd6-4b6d-9727-c357fbb20e3f" num="1-32-1" muid="100032">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Gala Invitation</name>
+      <text>At the end of combat, if any of your mortals with ELITE hit this combat, you may deploy a standard resource.
+
+{T} your Mastermind, sacrifice this = Draw a card.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Item</type>
+        <maintype>Item</maintype>
+        <manacost>2E 1A</manacost>
+        <cmc>3</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="rare" uuid="5d26ccb9-812c-434b-8bbe-6ca7f81abd54" num="1-34-1" muid="100034">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Aton Usoro</name>
+      <text>Enter - Search your deck for a standard [E] resource and put it onto the battlezone. Draw a card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Deploy a mortal with influence requirement 4 or greater.
+
+{T}, sacrifice a resource = Look at your facedown cards in the void and your rep, you may reveal up to two mortals from among those cards. Put them into your hand.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="common" uuid="157300ab-773d-4890-9fa6-0fcd516bc47d" num="1-35-1" muid="100035">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Judson Kasperek</name>
+      <text>Enter - Search your deck for a standard [E] resource and put it onto the battlezone. Draw a card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Deploy a mortal with influence requirement 4 or greater.
+
+{D}, {T}, absorb a rep = Draw a card. Deploy a card.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="common" uuid="46a9a37d-ac40-4750-a2a5-5eb251148946" num="1-36-1" muid="100036">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Tabitha Smallman</name>
+      <text>Enter - Search your deck for a standard [E] resource and put it onto the battlezone. Draw a card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Deploy a mortal with influence requirement 4 or greater.
+
+{D}, {T}, sacrifice a resource = Draw a card. One of your mortals gains ELITE this turn.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>E</colors>
+        <coloridentity>E</coloridentity>
+        </prop>
+        <set rarity="common" uuid="9c2c9725-26fa-4b2c-a474-dbabb5329254" num="1-37-1" muid="100037">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Cosmos Adjuster</name>
+      <text>{D},{T} = Your mortals gain +2/+2 this turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Item</type>
+        <maintype>Item</maintype>
+        <manacost>3A</manacost>
+        <cmc>3</cmc>
+        <colors>A</colors>
+        <coloridentity>A</coloridentity>
+        </prop>
+        <set rarity="common" uuid="5a113540-43b2-4562-b720-0158b71c33c4" num="1-39-1" muid="100039">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>The Unknown</name>
+      <text>Enter - Search your deck for a standard resource and put it onto the battlezone. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Begin combat. You may only attack with 2 or fewer mortals this combat.
+
+{D},{T}, sacrifice a resource = Draw a card. Deploy a card.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>A</colors>
+        <coloridentity>A</coloridentity>
+        </prop>
+        <set rarity="common" uuid="a4ed7be2-a082-4116-a9ba-f5abef3e88f1" num="1-41-1" muid="100041">TMB</set>
+        <tablerow>1</tablerow>
+    </card>    
+    <card>
+      <name>Hermit Eardweevil</name>
+      <text>Enter - Draw 2 cards. You may put a card from your hand onto the battlezone facedown as a resource. Draw a card. Gain 2 rep.
+{?} = Draw a card, deploy a card, or begin combat.
+{T} = Begin combat.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>A</colors>
+        <coloridentity>A</coloridentity>
+      </prop>
+      <set rarity="Common" uuid="63ebcc15-8ccf-493b-bc3f-7b03f5273972" num="1-42-1" muid="100042">TMB</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Ambassador Onyx</name>
+      <text>Enter - Search your deck for a standard resource and put it onto the battlezone. Gain 2 rep.
+{D} = Draw a card, deploy a card, or begin combat.
+{T} = Begin combat. You may only attack with 2 or fewer mortals this combat.
+{T} = Draw a card. Put a card from your hand on the bottom of your deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>A</colors>
+        <coloridentity>A</coloridentity>
+      </prop>
+      <set rarity="Common" uuid="17fcd7e3-caaa-4a14-af9f-9273deca1673" num="1-43-1" muid="100043">TMB</set>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Intel Agent</name>
+      <text>Hit - SORT 1. (Look at the top X cards of your deck, then put any number of them on the bottom and the rest on top in any order.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Cyborg</type>
+        <maintype>Mortal</maintype>
+        <manacost>1D</manacost>
+        <cmc>1</cmc>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        <pt>1/1</pt>
+        </prop>
+        <set rarity="common" uuid="c2796b93-2b5f-4383-a5da-b9cb54054764" num="1-44-1" muid="100044">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Intel Ensign</name>
+      <text>Enter or Leave - SORT 2. (Look at the top X cards of your deck, then put any number of them on the bottom and the rest on top in any order.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Mystic</type>
+        <maintype>Mortal</maintype>
+        <manacost>1D 2A</manacost>
+        <cmc>3</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        <pt>2/1</pt>
+        </prop>
+        <set rarity="common" uuid="44594f92-b6c6-4973-9621-49ae90302ff6" num="1-49-1" muid="100049">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Munitions Runner</name>
+      <text>Destroyed - You may draw 3 cards, then put a card from your hand on top of your deck.
+
+Sacrifice this = Pick an opponent's item, its owner gains it as a rep. Sort 2.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Machine</type>
+        <maintype>Mortal</maintype>
+        <manacost>2D 2A</manacost>
+        <cmc>4</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        <pt>5/2</pt>
+        </prop>
+        <set rarity="uncommon" uuid="126f404b-c8cc-4f67-b654-368d8a456054" num="1-51-1" muid="100051">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Well-Hidden Sniper</name>
+      <text>TIRED (This enteres the battlezone depleted.)
+
+Enter - You may destroy a mortal with ELITE.
+
+1[D]3[A] - UTILIZE (Reveal this while it's a facedown resource, {D} = Deploy this ignoring its influence requirement.)
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Cyborg</type>
+        <maintype>Mortal</maintype>
+        <manacost>1D 3A</manacost>
+        <cmc>4</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        <pt>2/3</pt>
+        <cipt>1</cipt>
+        </prop>
+        <set rarity="common" uuid="d866873e-0365-4cef-a684-6370c65588b3" num="1-52-1" muid="100052">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Banisher</name>
+      <text>Enter - Each opponent puts one of their mortals on the bottom of its owner's deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Monster</type>
+        <maintype>Mortal</maintype>
+        <manacost>2D 2A</manacost>
+        <cmc>4</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        <pt>2/2</pt>
+        </prop>
+        <set rarity="common" uuid="020c2bc0-ddd0-4816-8332-c7e2062d7e79" num="1-53-1" muid="100053">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Data Seer</name>
+      <text>UNBLOCKABLE (While all mortals in this mortal's party have UNBLOCKABLE, the party cannot be blocked.)
+
+Enter - SORT 4. (Look at the top X cards of your deck, then put any number of them on the bottom and the rest on top in any order.)
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Mystic</type>
+        <maintype>Mortal</maintype>
+        <manacost>2D 3A</manacost>
+        <cmc>5</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        <pt>2/2</pt>
+        </prop>
+        <set rarity="rare" uuid="0da4bddf-1562-4601-995a-6b7b1d41b8fe" num="1-54-1" muid="100054">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hunter Drone</name>
+      <text>Hit - Gain a rep.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Machine</type>
+        <maintype>Mortal</maintype>
+        <manacost>4D 1A</manacost>
+        <cmc>5</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        <pt>1/4</pt>
+        </prop>
+        <set rarity="uncommon" uuid="40cf5773-d5c7-4d02-9cec-e3e71bcbb0f3" num="1-55-1" muid="100055">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mystic Warlord</name>
+      <text>{T} = SORT 3. (Look at the top X cards of your deck, then put any number of them on the bottom and the rest on top in any order.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Mystic</type>
+        <maintype>Mortal</maintype>
+        <manacost>5D</manacost>
+        <cmc>5</cmc>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        <pt>7/7</pt>
+        </prop>
+        <set rarity="uncommon" uuid="5c7392c6-9123-4f79-8ecc-4038d03e158a" num="1-56-1" muid="100056">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Attack Reaper</name>
+      <text>UPGRADE (Reveal this from your hand, sacrifice a card that shares a type with this card = Deploy this faceup.)
+
+Attack - This gets +4/+4 this turn.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Cyborg</type>
+        <maintype>Mortal</maintype>
+        <manacost>5D 2A</manacost>
+        <cmc>7</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        <pt>6/6</pt>
+        </prop>
+        <set rarity="uncommon" uuid="86ec9463-00e5-40d3-9990-f1f2b7612f1f" num="1-57-1" muid="100057">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Temporary Upgrade</name>
+      <text>A mortal gets +3/+3 this turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>3D</manacost>
+        <cmc>3</cmc>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="common" uuid="563f60ad-843e-4f48-a60c-dce70b09949a" num="1-59-1" muid="100059">TMB</set>
+        <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Energy Boost</name>
+      <text>Undeplete one of your mortals. It gets +1/+1 this turn.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>3D 1A</manacost>
+        <cmc>4</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="0e07ea17-f14e-4c18-8bfd-157951e1b58e" num="1-60-1" muid="100060">TMB</set>
+        <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Second Chance</name>
+      <text>Put up to two mortal cards that were trashed this turn from your trashpile into the battlezone.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>4D 1A</manacost>
+        <cmc>5</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="rare" uuid="415e52d0-f011-4542-8fc7-c63c73c9d557" num="1-61-1" muid="100061">TMB</set>
+        <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Blast</name>
+      <text>Inflict 2 damage to a mortal. Draw a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2D 1A</manacost>
+        <cmc>3</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="common" uuid="f01abe98-45be-4001-9344-7a14591d165e" num="1-64-1" muid="100064">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Lab Leak</name>
+      <text>Each opponent puts one of their mortals into its owner's hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>3D</manacost>
+        <cmc>3</cmc>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="common" uuid="777bad03-8b4f-4f04-8c71-0dc53c3079cb" num="1-65-1" muid="100065">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Tactical Divination</name>
+      <text>COST: Destroy a mortal you own.
+
+SORT 1. (Look at the top X cards of your deck, then put any number of them on the bottom and the rest on top in any order.)
+Gain a rep. (When you gain a rep, shuffle them.)
+Draw a card.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2D</manacost>
+        <cmc>2</cmc>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="common" uuid="755c36d0-f84a-4f2e-bf78-23d7f9dafb30" num="1-66-1" muid="100066">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Sabotage</name>
+      <text>FREE (Reveal this from your hand = Deploy this faceup.)
+You may look at an opponent's facedown resources and destroy one. If you do, they may deploy a resource.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2D 2A</manacost>
+        <cmc>4</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="b3ed31f5-c705-440d-89c1-1c6cdd390be7" num="1-67-1" muid="100067">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Triple Blast</name>
+      <text>Inflict 3 damage to up to 3 mortals.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>3D 3A</manacost>
+        <cmc>6</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="rare" uuid="d754c94a-9639-4be3-b47d-903718b77162" num="1-68-1" muid="100068">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Regenerating Blade</name>
+      <text>Attached mortal gets +2/+0. When this is trashed, put it into its owner's hand.
+(Gear can be attached to your mortal when it enters the battlezone or when your mortal enters the battlezone if the gear is unattached. You may use a {D} to attach the gear to any of your mortals.)
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Item - Gear</type>
+        <maintype>Item</maintype>
+        <manacost>1D 1A</manacost>
+        <cmc>2</cmc>
+        <colors>DA</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="common" uuid="6cd6fd00-e30d-4bdf-a4af-01e6f053579d" num="1-70-1" muid="100070">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>The Shadow Comandante</name>
+      <text>Enter - Search your deck for a standard [D] resource and put it onto the battlezone.
+Draw a card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Deploy a facedown resource.
+
+{D},{T}, sacrifice a standard resource = This turn, one of your mortals gains UNBLOCKABLE. (While all mortals in this mortal's party have UNBLOCKABLE, the party cannot be blocked.)
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="common" uuid="ee34cdff-27bd-485a-b4e0-dce5a5ac99ad" num="1-71-1" muid="100071">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Commander Zess</name>
+      <text>Enter - Search your deck for a standard [D] resource and put it onto the battlezone.
+Draw a Card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Gain a rep from your hand.
+
+{T} = Put one of your resources into its owner's hand.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="common" uuid="49630a54-953a-47c8-82e5-4aacdd2c95a4" num="1-72-1" muid="100072">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Markmeister</name>
+      <text>Enter - Search your deck for a standard [D] resource and put it onto the battlezone.
+Draw a card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Gain a rep from your hand.
+{D}, {T}, sacrifice a standard resource = Draw 3 cards. Put 2 cards from your hand on the bottom of your deck in any order.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>D</colors>
+        <coloridentity>D</coloridentity>
+        </prop>
+        <set rarity="common" uuid="fc22612a-b728-476e-8f47-191c64f737e2" num="1-73-1" muid="100073">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Sedated Samir</name>
+      <text>Trashed - You may discard a card. If you do, each opponent discards a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Juicer</type>
+        <maintype>Mortal</maintype>
+        <manacost>1T</manacost>
+        <cmc>1</cmc>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        <pt>1/1</pt>
+        </prop>
+        <set rarity="common" uuid="400a6fb2-daf8-48f1-8e16-e68d9342ccd2" num="1-74-1" muid="100074">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Addicted Mesmerist</name>
+      <text>Enter - You may pick a player and they discard a card.
+
+Block - At the end of combat, undeplete this.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Juicer</type>
+        <maintype>Mortal</maintype>
+        <manacost>1E 1A</manacost>
+        <cmc>2</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+        <pt>0/2</pt>
+      </prop>
+      <set rarity="common" uuid="f38990af-8555-4dd8-a27e-df0879017fdc" num="1-77-1" muid="100077">TMB</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Subversive Returner</name>
+      <text>COST: You may pick a card in your trashpile.
+
+Enter - You may put the picked into your hand.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Mystic Wraith</type>
+        <maintype>Mortal</maintype>
+        <manacost>2T 1A</manacost>
+        <cmc>3</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        <pt>2/2</pt>
+        </prop>
+        <set rarity="common" uuid="2b818342-5ecb-4506-b2c7-e9898c0f691d" num="1-80-1" muid="100080">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Demented Evangelist</name>
+      <text>ELITE (While all mortals in the mortal's party have ELIITE, the party cannot be blocked except by mortals with ELITE)
+
+Trashed - You may have an opponent draw a card. If you do, look at their hand and put a card from it on top of their deck 3rd from the top.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Abomination Freak</type>
+        <maintype>Mortal</maintype>
+        <manacost>3T</manacost>
+        <cmc>3</cmc>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        <pt>2/2</pt>
+        </prop>
+        <set rarity="uncommon" uuid="3ff10209-73fe-45b7-bc84-1fd27bd5fc0a" num="1-81-1" muid="100081">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deranged Acolyte</name>
+      <text>MOMENTUM (While all mortals in this mortal's party have MOMENTUM, the party cannot be blocked by only 1 mortal.)
+
+Trashed - You may pick an item and put it into its owner's hand. If you do, that item's controller discards a card.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Freak</type>
+        <maintype>Mortal</maintype>
+        <manacost>3T 1A</manacost>
+        <cmc>4</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        <pt>4/2</pt>
+        </prop>
+        <set rarity="uncommon" uuid="4da0f107-0a87-449d-9771-209cc072df2a" num="1-82-1" muid="100082">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Reapparator</name>
+      <text>Enter - For each player, choose up to one card in their trashpile and put those cards on top of their owner's deck.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Mystic</type>
+        <maintype>Mortal</maintype>
+        <manacost>3T 1A</manacost>
+        <cmc>4</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        <pt>3/4</pt>
+        </prop>
+        <set rarity="uncommon" uuid="30f3865b-726e-43d2-8959-25662ef87230" num="1-83-1" muid="100083">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stimulated Stella</name>
+      <text>FAST (This can attack and use abilities as if it started in the battlezone under your control the turn it entered play.)
+
+{D}, {T} = Look at an opponent hand, choose a card and they discard it.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Juicer</type>
+        <maintype>Mortal</maintype>
+        <manacost>3T 2A</manacost>
+        <cmc>5</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        <pt>3/2</pt>
+        </prop>
+        <set rarity="uncommon" uuid="3fde5038-aa78-402f-b19f-9aa76d06d55e" num="1-85-1" muid="100085">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scavenging Behemoth</name>
+      <text>UPGRADE (Reveal this from your hand, sacrifice a card that shares a type with this card = Deploy this faceup.)
+
+{T} = Put a mortal from your trashpile into your hand.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Unique - Mortal - Abomination</type>
+        <maintype>Mortal</maintype>
+        <manacost>5T 1A</manacost>
+        <cmc>6</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        <pt>8/6</pt>
+        </prop>
+        <set rarity="epic" uuid="c9ac0e06-bc07-4a29-b102-7728f5be90a7" num="1-86-1" muid="100086">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brisk Death</name>
+      <text>Pick an opponent's mortal that entered the battlezone this turn and destroy it. That opponent may draw a card.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>3T</manacost>
+        <cmc>3</cmc>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="common" uuid="7ac4dcd6-02f2-4452-8628-5f4424ede3b1" num="1-88-1" muid="100088">TMB</set>
+        <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Posthumous Betrayal</name>
+      <text>Put an opponent's mortal from their trashpile onto the battlezone under your control if it was trashed this turn. Deplete it.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>4T</manacost>
+        <cmc>4</cmc>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="rare" uuid="526986ea-9a44-4ed6-9d15-420c6bae4e06" num="1-89-1" muid="100089">TMB</set>
+        <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Debt to the Dead</name>
+      <text>If one or more of your mortals were trashed this turn, you may pick up to 2 mortals and destroy them.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Trap</type>
+        <maintype>Trap</maintype>
+        <manacost>3T 3A</manacost>
+        <cmc>6</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="e66f40f7-4cc6-4b6e-97ad-1e057491cffd" num="1-90-1" muid="100090">TMB</set>
+        <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Dance the Labyrinth</name>
+      <text>Search your deck for an event, reveal it and put it into your hand.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2T</manacost>
+        <cmc>2</cmc>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="26e58217-7c42-4ee4-8274-26840fed24a0" num="1-91-1" muid="100091">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Toxic Dissolution</name>
+      <text>FREE (Reveal this from your hand = Deploy this faceup.)
+COST: Discard a mortal. Pick a mortal or opponent's item.
+
+Destroy the mortal or put the item into its owner's hand.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2T 2A</manacost>
+        <cmc>4</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="a05cc66d-1732-4436-ad9b-8c43d0458f0a" num="1-92-1" muid="100092">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Dark Bargains</name>
+      <text>Each opponent discards a card. You may choose a card in your hand and gain it as a rep. (When you gain a rep, shuffle them.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2T 1A</manacost>
+        <cmc>3</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="common" uuid="4e8d4749-64db-412b-aff6-9d19dc0e2c4d" num="1-93-1" muid="100093">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>A Different Kind of Respect</name>
+      <text>Look at your rep. You may shuffle them into your deck and then gain that many rep. If you don't, shuffle your rep. Draw a card. (When you gain a rep shuffle them.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>1E 2A</manacost>
+        <cmc>3</cmc>
+        <colors>EA</colors>
+        <coloridentity>E</coloridentity>
+      </prop>
+      <set rarity="common" uuid="fa5fe4f4-2642-4da0-baee-77ad21b16d9b" num="1-94-1" muid="100094">TMB</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Dark Remembrance</name>
+      <text>Gain a card in your trashpile as a rep. Void this event. (When you gain a rep, shuffle them.)</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>3T</manacost>
+        <cmc>3</cmc>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="uncommon" uuid="fc1f53ee-3a24-420c-9253-9e6b3f38d3af" num="1-95-1" muid="100095">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Nourishing Prescience</name>
+      <text>FREE (Reveal this from your hand = Deploy this faceup.)
+
+Look at an opponent's traps. If you UTILIZED this, draw a card.
+
+2[T] 1[A] - UTILIZE (Reveal this while it's a facedown resource, {D} = Deploy this ignoring its influence requirement.)
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>2T 2A</manacost>
+        <cmc>4</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="common" uuid="7156f817-3664-4b03-b68a-7cffb51859de" num="1-96-1" muid="100096">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Enlighten the Undead</name>
+      <text>Put a mortal from your trashpile into your hand. Look at a number of cards from the top of your deck equal to the mortal's influence requirement and you may reveal a mortal. If you do, put it into your hand. Put the rest on the bottom of your deck in any order.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Event</type>
+        <maintype>Event</maintype>
+        <manacost>3T 2A</manacost>
+        <cmc>5</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="rare" uuid="748b2a2d-9712-4e4e-9756-f708511159c8" num="1-97-1" muid="100097">TMB</set>
+        <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Fungal Incubator</name>
+      <text>{D}, {T}, Put a temperature counter on this, Discard a non-resource card = Destroy a mortal, then if this has 3 or more temperature counters on it, draw a card and sacrifice this.
+
+Sacrifice a Fungus = Remove a temperature counter from this.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Item</type>
+        <maintype>Item</maintype>
+        <manacost>3T 1A</manacost>
+        <cmc>4</cmc>
+        <colors>TA</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="rare" uuid="e6d63269-d55b-4bf8-a907-c29b1730b2de" num="1-99-1" muid="100099">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Eldin Amspoker</name>
+      <text>Enter - Search your deck for a standard [T] resource and put it onto the battlezone.
+Draw a card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Deploy an event or item.
+
+{T}, sacrifice a resource = Put the top 2 cards of a player's deck into their trashpile then void one of them.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="common" uuid="dd00ef27-529f-4b6b-9792-f5cbd00e3780" num="1-100-1" muid="100100">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>The Mycologist</name>
+      <text>Enter - Search your deck for a standard [T] resource and put it onto the battlezone.
+Draw a card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Deploy an event or item.
+
+{D}, {T} = Each opponent discards a card. For each mortal discarded, create a Micro-muh-Shroom, a 1/1 [T] Abomination Fungus mortal token.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <related>Micro-muh-Shroom</related>
+        <set rarity="common" uuid="99de7d64-2793-40c8-a718-c474e5b7591b" num="1-101-1" muid="100101">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Micro-muh-Shroom</name>
+      <text></text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Abomination - Token</type>
+        <maintype>Mortal</maintype>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        <pt>1/1</pt>
+        </prop>
+        <reverse-related>The Mycologist</reverse-related>
+        <set rarity="token" uuid="4bd888b8-1d74-4ae4-9360-5890d4f1b758" num="T1-1-1" muid="110001">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deepak Deep Dallarosa</name>
+      <text>Enter - Search your deck for a standard [T] resource and put it onto the battlezone.
+Draw a card. Gain 2 rep.
+
+{D} = Draw a card, deploy a card, or begin combat.
+
+{T} = Deploy an event or item.
+
+{D}, {T}, void a standard resource from your hand = Deploy a mortal from your trashpile.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mastermind</type>
+        <maintype>Mastermind</maintype>
+        <colors>T</colors>
+        <coloridentity>T</coloridentity>
+        </prop>
+        <set rarity="common" uuid="5a2e2fe6-9136-4387-9de9-af95ebf5d434" num="1-102-1" muid="100102">TMB</set>
+        <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Whappy Follower</name>
+      <text>FAST (This can attack and use abilities as if it started in the battlezone under your control the turn it entered play.)
+CRITICAL (This card's party causes rep to be destroyed when it inflicts combat damage to a mastermind.)
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Freak</type>
+        <maintype>Mortal</maintype>
+        <manacost>1P 1A</manacost>
+        <cmc>2</cmc>
+        <colors>PA</colors>
+        <coloridentity>P</coloridentity>
+        <pt>1/1</pt>
+        </prop>
+        <set rarity="common" uuid="4ef670c5-31da-4ee5-9d4a-b9017bfcb0cf" num="1-103-1" muid="100103">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mother of Gnomes</name>
+      <text>Attack - Create a Trash Gnome, a 2/2 [P] Mutant mortal token.
+
+Sacrifice a Trash Gnome = Begin Combat.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Unique - Mortal - Mutant</type>
+        <maintype>Mortal</maintype>
+        <manacost>1P 3A</manacost>
+        <cmc>4</cmc>
+        <colors>PA</colors>
+        <coloridentity>P</coloridentity>
+        <pt>2/2</pt>
+        </prop>
+        <set rarity="epic" uuid="b3cbcabb-500e-4f60-a4dd-5255600ce860" num="1-104-1" muid="100104">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silent Moretta</name>
+      <text>{T} = For each opponent, deplete one of their mortals.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Freak</type>
+        <maintype>Mortal</maintype>
+        <manacost>2P</manacost>
+        <cmc>2</cmc>
+        <colors>P</colors>
+        <coloridentity>P</coloridentity>
+        <pt>1/3</pt>
+        </prop>
+        <set rarity="common" uuid="c121d305-9c17-43ce-b376-74bbf4b15d33" num="1-105-1" muid="100105">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Juicing Joyrider</name>
+      <text>TIRED (This enters the battlezone depleted.)
+
+4[P] - MOMENTUM (while all mortals in this mortal's party have MOMENTUM, the party cannot be blocked by only 1 mortal.)
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Juicer</type>
+        <maintype>Mortal</maintype>
+        <manacost>2P 1A</manacost>
+        <cmc>3</cmc>
+        <colors>PA</colors>
+        <coloridentity>P</coloridentity>
+        <pt>4/5</pt>
+        </prop>
+        <set rarity="common" uuid="f7aef822-b904-40c2-89e4-7f21ccc7444d" num="1-108-1" muid="100108">TMB</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>50-Foot Woman</name>
+      <text>COST: Sacrifice a resource.
+Attack - At the end of combat, undeplete this.</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Mortal - Mutant</type>
+        <maintype>Mortal</maintype>
+        <manacost>4G 3A</manacost>
+        <cmc>7</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>10/10</pt>
+      </prop>
+      <set rarity="epic" uuid="8048716d-2e8f-458e-9de0-339c036c354d" num="1-152-1" muid="100152">TMB</set>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
