@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="A Different Kind of Respect"/>
+        <card number="2" name="Addicted Mesmerist"/>
+        <card number="1" name="Appendage of Agony"/>
+        <card number="1" name="Basic Mastermind"/>
+        <card number="2" name="Brisk Death"/>
+        <card number="2" name="Dance the Labyrinth"/>
+        <card number="2" name="Dark Bargains"/>
+        <card number="2" name="Dark Reapparator"/>
+        <card number="1" name="Dark Remembrance"/>
+        <card number="1" name="Debt to the Dead"/>
+        <card number="1" name="Demented Evangelist"/>
+        <card number="2" name="Deranged Acolyte"/>
+        <card number="1" name="Ed Dibblewealth"/>
+        <card number="1" name="Festering Fleshgolem"/>
+        <card number="3" name="Sedated Samir"/>
+        <card number="1" name="Shamblin Shroombeast"/>
+        <card number="1" name="Stim Stem"/>
+        <card number="2" name="Subversive Returner"/>
+        <card number="2" name="Surreal Eel"/>
+        <card number="1" name="Swollen Symbiote"/>
+        <card number="3" name="Synchronaut"/>
+        <card number="1" name="The Mycologist"/>
+        <card number="1" name="Theta Host"/>
+        <card number="17" name="Theta Influence Generator"/>
+        <card number="1" name="Toxic Dissolution"/>
+    </zone>
+</cockatrice_deck>

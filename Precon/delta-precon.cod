@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Ancillary Templar"/>
+        <card number="1" name="Attack Reaper"/>
+        <card number="1" name="Banisher"/>
+        <card number="2" name="Blast"/>
+        <card number="1" name="Delta Host"/>
+        <card number="17" name="Delta Influence Generator"/>
+        <card number="1" name="Energy Boost"/>
+        <card number="1" name="Experimental Implant"/>
+        <card number="1" name="Ghatak Piercer"/>
+        <card number="1" name="Hunter Drone"/>
+        <card number="2" name="Intel Agent"/>
+        <card number="3" name="Intel Ensign"/>
+        <card number="2" name="Lab Leak"/>
+        <card number="1" name="Mind Raider"/>
+        <card number="1" name="Mystic Warlord"/>
+        <card number="1" name="Regenerating Blade"/>
+        <card number="1" name="Relentless Saboteur"/>
+        <card number="3" name="Sleeper Agent"/>
+        <card number="2" name="Tactical Divination"/>
+        <card number="2" name="Temporary Upgrade"/>
+        <card number="1" name="Triple Blast"/>
+        <card number="1" name="Volatile Deflector"/>
+        <card number="1" name="War Memorial"/>
+        <card number="1" name="Well-Hidden Sniper"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Basic Mastermind"/>
+        <card number="1" name="Markmeister"/>
+        <card number="1" name="Matre Ethel"/>
+    </zone>
+</cockatrice_deck>

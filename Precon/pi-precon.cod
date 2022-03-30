@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Basic Mastermind"/>
+        <card number="1" name="Blundering Gollump"/>
+        <card number="1" name="Bottom-Heavy Brawler"/>
+        <card number="2" name="Bull In A China Shop"/>
+        <card number="2" name="Flatulent Jester"/>
+        <card number="1" name="Francis &quot;Frannie&quot; Gassie Jr."/>
+        <card number="2" name="Gassie Goon"/>
+        <card number="2" name="Greasepaint Messiah"/>
+        <card number="1" name="Hatchet Hands"/>
+        <card number="2" name="Human Cannonball"/>
+        <card number="2" name="Mr. Swingy Flingy"/>
+        <card number="1" name="Pi Host"/>
+        <card number="17" name="Pi Influence Generator"/>
+        <card number="2" name="Pie to the Face!"/>
+        <card number="1" name="Ryyl Assassin"/>
+        <card number="1" name="Sausage Orchestra"/>
+        <card number="1" name="Sewage Feature"/>
+        <card number="1" name="Shame Eat"/>
+        <card number="2" name="Silent Moretta"/>
+        <card number="1" name="Silly Arlecchino"/>
+        <card number="1" name="Spiky Roller Skates"/>
+        <card number="1" name="Topsy-Turvy Tonic"/>
+        <card number="3" name="Unlicensed Whappy Impersonator"/>
+        <card number="1" name="Vartuum"/>
+        <card number="3" name="Whappy Follower"/>
+    </zone>
+</cockatrice_deck>
